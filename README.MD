@@ -1,4 +1,4 @@
-# ICML '25: Towards Memorization Estimation: Fast, Formal and Free
+# ICML 2025: Towards Memorization Estimation: Fast, Formal and Free
 
 This repository contains the code and scripts to reproduce the experiments described in the ICML '25 paper _"Towards Memorization Estimation: Fast, Formal and Free"_. Follow the instructions below to set up and run the various experiments. If you found our work useful please considering citing our work.
 
