@@ -23,11 +23,7 @@ To properly set up your environment, you will need to:
 
 ### Step 1: Install Dependencies
 
-Ensure that your Python environment includes the necessary dependencies by running the following command:
-
-```bash
-pip install -r requirements.txt
-```
+Ensure that your Python environment includes the necessary dependencies specifially, both tensorflow and pytorch should be installed and minio.
 
 ### Step 2: Deploy MinIO Docker Container
 
